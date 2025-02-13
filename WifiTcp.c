@@ -7,8 +7,8 @@
 #include "lwip/tcp.h"
 
 // Configurações de rede
-const char *ssid = "CLARO_102"; // SSID da minha Rede
-const char *password = "Eduardo8080@"; // Senha da minha rede
+const char *ssid = ""; // SSID da minha Rede
+const char *password = ""; // Senha da minha rede
 
 // Buffer para as requisições HTTP
 char request_buffer[2048];
